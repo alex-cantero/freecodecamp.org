@@ -1,0 +1,12 @@
+main {
+  margin: 0 auto;
+  max-width: 25%;
+}
+#img-div {
+  text-align: center;
+}
+#img-div img {
+  max-width: 100%;
+  height: auto;
+  display:block;
+}
